@@ -41,10 +41,10 @@ window.onload = function() {
     <div class="bill">
         <div class="bill-top">
             <div class="shop-details">
-                <p class="licence">DL CBE 1271/21</p>
-                <h2 class="shop-name">Sri Sai Suriya Medicals</h2>
-                <p class="address"><strong>1/233-1,Rangammal Colony,N.G.G.O Colony,CBE-22</strong></p><br>
-                <p class="gst">GSTIN: 33CCJPS5050D1ZR &nbsp;<strong>Phn :</strong> 9894180852</p>
+                <p class="licence">  licence </p>
+                <h2 class="shop-name"> Name  </h2>
+                <p class="address"><strong> Address </strong></p><br>
+                <p class="gst">GSTIN: abcdefghijklmn &nbsp;<strong>Phn :</strong> number </p>
                 
             </div>
             
