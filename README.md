@@ -23,7 +23,7 @@ Download XAMPP from Apache Friends and install it on your system.
 
 Clone the Repository:
 
-git clone https://github.com/nithinprasath21/Pharmacy.git
+git clone https://github.com/SailashBabu/Pharmacy_automation_MongoDB.git
 cd Pharmacy
 Move the Project Folder: Move the cloned project folder to the htdocs directory of your XAMPP installation (e.g., C:\xampp\htdocs). Setting Up MongoDB Install MongoDB: Download MongoDB from the official website: MongoDB Download Center. Follow the installation instructions for your operating system.
 
